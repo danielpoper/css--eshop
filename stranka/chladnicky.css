@@ -1,0 +1,109 @@
+.kontajner {
+    background-color: #4b0000;
+    padding: 5px;
+    margin: -8px;    
+}
+
+.menu {
+    float: right;
+    padding-top: 30px;
+}
+
+button {
+    color: white;
+    background: none;
+    border: none;
+    font-size: 20px;
+    margin-right: 35px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+button:hover {
+    transform: translateY(-3px);
+
+}
+
+.popis {
+    max-width: 400px;
+    margin-top: 50px;
+}
+
+.vsetko {
+    display: flex;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.vsetko2 {
+    display: flex;
+    margin-left: 300px;
+    margin-top: 60px;
+    padding-bottom: 40px;
+}
+
+.chladnicka1 {
+    width: 33%;
+}
+
+.chladnicka3 {
+    margin-left: 90px;
+}
+
+.chladnicka4 {
+    margin-right: 180px;
+}
+
+.obr2 {
+    margin-left: 15px;   
+}
+
+
+.cena1 {
+    margin-top: 58px;
+}
+
+.cena2 {
+    margin-top: 75px;
+}
+
+.cena3 {
+    margin-top: 77px;
+}
+
+.cena4 {
+    margin-top: 75px;
+}
+
+.cena5 {
+    margin-top: 40px;
+}
+
+
+.popis1 {
+    text-align: justify;
+    max-width: 400px;
+    margin-top: 30px;
+}
+
+.popis2 {
+    text-align: justify;
+    max-width: 300px;
+    margin-top: 30px;
+}
+
+.dokosika {
+    background-color: #4b0000;
+}
+
+.pata {
+    padding-bottom: 10px;
+    margin-top: 23px;
+    margin-left: 600px;
+    background-color: hsla(255, 255, 255, 50%);
+}
+
+.ciara {
+    margin-top: 80px;
+}

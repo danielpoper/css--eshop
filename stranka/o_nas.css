@@ -1,0 +1,97 @@
+body {
+    background-color:seashell;
+}
+.kontajner {
+    background-color: #4b0000;
+    padding: 3px;
+    margin: -8px;    
+}
+
+.menu {
+float: right;
+padding-top: 20px;
+}
+
+button {
+    color: white;
+    background: none;
+    border: none;
+    font-size: 20px;
+    margin-right: 35px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+button:hover {
+    transform: translateY(-3px);
+}
+
+h1  {
+    color: white;
+    padding: 5px;
+    text-align: center;
+    background-color: #4b0000;
+    margin: 20px;
+    border-radius: 10px;
+    text-decoration: underline;
+}
+
+.zoznam {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+.mapa {
+    width: 100%;
+    height: 250px;
+}
+
+.maly {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+
+.polenakomentar {
+    width: 100%;
+}
+
+.odoslat {
+    background-color: #4b0000;
+    padding: 5px;
+    
+}
+
+.pata {
+    padding-bottom: 10px;
+    margin-top: 23px;
+    margin-left: 600px;
+    background-color: hsla(255, 255, 255, 50%);
+}
+
+.ciara {
+    margin-top: 80px;
+}
+
+video {
+    margin-left: 350px;
+    border: solid 5px #4b0000;
+    border-radius: 20px;
+    padding: 10px 10px 10px 10px;
+}
+
+.audio {
+    margin-left: 450px;
+}

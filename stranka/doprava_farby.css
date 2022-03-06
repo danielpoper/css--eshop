@@ -1,0 +1,79 @@
+body {
+    background-color: white;
+}
+
+
+.kontajner {
+    background-color: #4b0000;
+    padding: 5px;
+    margin: -10px;    
+}
+
+.menu {
+    float: right;
+    padding-top: 30px;
+}
+
+
+button {
+    color: white;
+    background: none;
+    border: none;
+    font-size: 20px;
+    margin-right: 35px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+button:hover {
+    transform: translateY(-3px);
+}
+
+
+
+table.tabulka {
+  width: 100%;
+  background-color: #ffffff;
+  border-collapse: collapse;
+  border-width: 2px;
+  border-color: #000000;
+  border-style: solid;
+  color: #000000;
+}
+
+table.tabulka td, table.tabulka th {
+  border-width: 2px;
+  border-color: #020202;
+  border-style: solid;
+  padding: 3px;
+}
+
+table.tabulka thead {
+  background-color: #4b0000;
+}
+
+.tabulka {
+    margin-top: 50px;
+}
+
+.auto {
+    display: flex;
+}
+
+.text {
+
+    margin-left: 150px;
+    margin-top: 150px;
+    text-decoration: underline;
+    border: #4b0000;
+}
+
+.hlava {
+    color: #ffffff;
+}
+
+.autom {
+    margin-left: 20px;
+    margin-top: 50px;
+}
